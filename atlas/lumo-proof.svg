@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">Lumo Pickleball operating proof plate</title>
+  <desc id="desc">Evidence plate for Shopify, Etsy, custom listings, pricing, mockups, SEO, and customer workflow.</desc>
+  <rect width="1100" height="760" fill="#f4efe6"/>
+  <rect x="42" y="42" width="1016" height="676" fill="#fff8eb" stroke="#171411" stroke-opacity=".18"/>
+  <text x="70" y="98" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">LUMO PICKLEBALL</text>
+  <text x="72" y="132" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="18">DTC OPERATING SYSTEM / EVIDENCE BOARD</text>
+  <g transform="translate(78 186)">
+    <rect x="0" y="0" width="326" height="440" fill="#171411"/>
+    <ellipse cx="164" cy="176" rx="78" ry="116" fill="#f4efe6"/>
+    <ellipse cx="164" cy="176" rx="58" ry="92" fill="#d75a2a"/>
+    <path d="M164 288v96" stroke="#f4efe6" stroke-width="24" stroke-linecap="round"/>
+    <text x="35" y="407" fill="#f4efe6" font-family="Cascadia Mono, monospace" font-size="17">PRODUCT VISUAL SYSTEM</text>
+  </g>
+  <g transform="translate(452 184)" font-family="Cascadia Mono, monospace" font-size="17">
+    <rect width="254" height="118" fill="#2656b8"/>
+    <text x="22" y="42" fill="#fff8eb">SHOPIFY / ETSY</text>
+    <text x="22" y="78" fill="#fff8eb">LISTING WORKFLOW</text>
+    <rect y="150" width="254" height="118" fill="#d75a2a"/>
+    <text x="22" y="192" fill="#fff8eb">PRICING + MARGIN</text>
+    <text x="22" y="228" fill="#fff8eb">MODEL</text>
+    <rect y="300" width="254" height="118" fill="#f1c65a"/>
+    <text x="22" y="342" fill="#171411">CUSTOMER MOCKUP</text>
+    <text x="22" y="378" fill="#171411">FLOW</text>
+  </g>
+  <g transform="translate(750 184)">
+    <rect width="250" height="420" fill="#efe4d0" stroke="#171411" stroke-opacity=".22"/>
+    <text x="22" y="46" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800">OPERATING LOOP</text>
+    <g fill="none" stroke="#171411" stroke-width="2" stroke-opacity=".5">
+      <path d="M42 96h166M42 154h166M42 212h166M42 270h166M42 328h166"/>
+    </g>
+    <g fill="#171411" font-family="Cascadia Mono, monospace" font-size="15">
+      <text x="42" y="88">1. PRODUCT IDEA</text>
+      <text x="42" y="146">2. VISUAL MOCKUP</text>
+      <text x="42" y="204">3. PRICE TEST</text>
+      <text x="42" y="262">4. SEO CONTENT</text>
+      <text x="42" y="320">5. US CUSTOMER</text>
+      <text x="42" y="378">6. PLATFORM REVIEW</text>
+    </g>
+  </g>
+  <path d="M404 405C474 314 532 332 580 274s86-61 130-20" fill="none" stroke="#171411" stroke-width="2" stroke-dasharray="8 12"/>
+  <path d="M404 518c123 8 179-20 265-83s159-51 230 2" fill="none" stroke="#d75a2a" stroke-width="8" stroke-linecap="round"/>
+</svg>

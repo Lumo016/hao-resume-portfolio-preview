@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Lisbon observation frame</title>
+  <desc id="desc">Stylized travel frame for Lisbon with hills, tiles, and slow rhythm.</desc>
+  <rect width="900" height="1200" fill="#171411"/>
+  <rect x="46" y="42" width="808" height="1116" fill="#fff8eb"/>
+  <rect x="104" y="130" width="692" height="350" fill="#2656b8"/>
+  <rect x="104" y="480" width="692" height="370" fill="#f1c65a"/>
+  <g>
+    <path d="M104 686c106-58 190-91 310-54s220-13 382-104v322H104z" fill="#d75a2a"/>
+    <path d="M104 762c128-40 238-33 334 8s204 42 358-36v116H104z" fill="#171411"/>
+  </g>
+  <g fill="#fff8eb" opacity=".9">
+    <rect x="168" y="548" width="82" height="112"/>
+    <rect x="276" y="520" width="96" height="138"/>
+    <rect x="398" y="564" width="82" height="104"/>
+    <rect x="522" y="508" width="108" height="156"/>
+  </g>
+  <path d="M150 344c98 48 179 16 264 64 116 66 210 22 320-34" fill="none" stroke="#f4efe6" stroke-width="10" stroke-linecap="round"/>
+  <text x="106" y="994" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="800">LISBON</text>
+  <text x="110" y="1044" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="22">SLOW PACE / SHARP LOOKING</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hao Zhou route mark</title>
+  <desc id="desc">Editorial route mark for a personal atlas.</desc>
+  <rect width="520" height="360" fill="#f4efe6"/>
+  <path d="M52 284 C126 170 193 330 263 204 S388 60 468 146" fill="none" stroke="#d75a2a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M54 286 C132 178 193 326 263 204 S382 70 468 146" fill="none" stroke="#171411" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 14"/>
+  <circle cx="52" cy="284" r="17" fill="#2656b8"/>
+  <circle cx="263" cy="204" r="14" fill="#171411"/>
+  <circle cx="468" cy="146" r="17" fill="#d75a2a"/>
+  <text x="54" y="91" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800">HZ</text>
+  <text x="59" y="123" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="15">UNFAMILIAR TERRITORY</text>
+  <text x="59" y="145" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="15">WORK / WORLD / ROUTE</text>
+  <g fill="none" stroke="#171411" stroke-opacity=".22" stroke-width="1">
+    <path d="M40 40H480V320H40z"/>
+    <path d="M78 40V320M188 40V320M330 40V320M442 40V320"/>
+    <path d="M40 96H480M40 184H480M40 268H480"/>
+  </g>
+</svg>

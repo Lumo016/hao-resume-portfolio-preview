@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">Finance and growth operating route proof plate</title>
+  <desc id="desc">Evidence plate combining finance control trails and growth analysis routes.</desc>
+  <rect width="1100" height="760" fill="#f4efe6"/>
+  <rect x="48" y="48" width="1004" height="664" fill="#fff8eb" stroke="#171411" stroke-opacity=".18"/>
+  <text x="78" y="108" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">FINANCE CONTROL / GROWTH ROUTE</text>
+  <text x="80" y="142" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="18">PAYMENT TRAIL / SAP / TAX / CAMPAIGN SIGNALS</text>
+  <g transform="translate(84 194)">
+    <rect width="410" height="420" fill="#171411"/>
+    <text x="28" y="48" fill="#f4efe6" font-family="Cascadia Mono, monospace" font-size="17">LEDGER TRACE</text>
+    <g stroke="#f4efe6" stroke-opacity=".25" stroke-width="1">
+      <path d="M28 86h354M28 138h354M28 190h354M28 242h354M28 294h354M28 346h354"/>
+      <path d="M118 86v260M228 86v260M314 86v260"/>
+    </g>
+    <g fill="#f4efe6" font-family="Cascadia Mono, monospace" font-size="15">
+      <text x="34" y="120">TREASURY</text>
+      <text x="132" y="120">SAP</text>
+      <text x="242" y="120">TAX</text>
+      <text x="324" y="120">PROOF</text>
+      <text x="34" y="172">PAY</text>
+      <text x="132" y="172">VOUCHER</text>
+      <text x="242" y="172">CIT</text>
+      <text x="324" y="172">DOC</text>
+      <text x="34" y="224">BANK</text>
+      <text x="132" y="224">CLOSE</text>
+      <text x="242" y="224">ACCRUAL</text>
+      <text x="324" y="224">TRAIL</text>
+    </g>
+    <path d="M54 376c78-54 110 24 174-34s109-31 146-4" fill="none" stroke="#d75a2a" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(556 194)">
+    <rect width="450" height="420" fill="#efe4d0"/>
+    <text x="28" y="48" fill="#171411" font-family="Cascadia Mono, monospace" font-size="17">GROWTH SIGNALS</text>
+    <path d="M48 324V88M48 324H404" stroke="#171411" stroke-width="2" stroke-opacity=".45"/>
+    <path d="M70 290c44-60 72-25 111-80s83-58 124-36 65-18 86-70" fill="none" stroke="#2656b8" stroke-width="12" stroke-linecap="round"/>
+    <path d="M70 308c54-38 91-11 141-38s95-18 154-66" fill="none" stroke="#d75a2a" stroke-width="7" stroke-linecap="round"/>
+    <g fill="#171411" font-family="Cascadia Mono, monospace" font-size="15">
+      <text x="62" y="372">TRAFFIC</text>
+      <text x="174" y="372">CONVERSION</text>
+      <text x="320" y="372">GMV</text>
+      <text x="64" y="80">6.18 READOUT</text>
+    </g>
+    <circle cx="311" cy="174" r="15" fill="#d75a2a"/>
+    <circle cx="390" cy="104" r="15" fill="#171411"/>
+  </g>
+</svg>

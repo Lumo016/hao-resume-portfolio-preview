@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Unfamiliar Territory atlas cover</title>
+  <desc id="desc">A paper atlas spread combining work evidence and travel observations.</desc>
+  <rect width="1400" height="900" fill="#171411"/>
+  <rect x="42" y="38" width="1316" height="824" fill="#f4efe6"/>
+  <path d="M700 38V862" stroke="#171411" stroke-opacity=".16" stroke-width="2"/>
+  <rect x="78" y="82" width="536" height="666" fill="#fff8eb" stroke="#171411" stroke-opacity=".18"/>
+  <rect x="786" y="104" width="486" height="590" fill="#e6ded0" stroke="#171411" stroke-opacity=".18"/>
+  <g opacity=".95">
+    <rect x="116" y="132" width="210" height="138" fill="#2656b8"/>
+    <rect x="342" y="132" width="225" height="90" fill="#d75a2a"/>
+    <rect x="342" y="240" width="170" height="155" fill="#b8c4a4"/>
+    <rect x="116" y="292" width="185" height="235" fill="#171411"/>
+    <rect x="320" y="420" width="247" height="148" fill="#f1c65a"/>
+    <rect x="116" y="548" width="164" height="146" fill="#7b9a9b"/>
+    <rect x="302" y="590" width="265" height="104" fill="#efe4d0"/>
+  </g>
+  <g fill="none" stroke="#f4efe6" stroke-opacity=".7" stroke-width="3">
+    <path d="M132 500c54-66 120-92 198-76s131-18 198-104"/>
+    <path d="M142 170h168M142 196h116M352 170h184M352 198h102"/>
+    <path d="M337 620h204M337 646h142M337 672h170"/>
+  </g>
+  <g>
+    <rect x="828" y="150" width="184" height="238" fill="#efe4d0"/>
+    <rect x="1035" y="184" width="190" height="162" fill="#2656b8"/>
+    <rect x="886" y="430" width="340" height="58" fill="#d75a2a"/>
+    <rect x="828" y="520" width="170" height="126" fill="#171411"/>
+    <rect x="1028" y="516" width="198" height="130" fill="#b8c4a4"/>
+  </g>
+  <path d="M114 724C255 538 384 690 520 504S807 162 931 318s185 76 296-118" fill="none" stroke="#d75a2a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M114 724C255 538 384 690 520 504S807 162 931 318s185 76 296-118" fill="none" stroke="#171411" stroke-width="2" stroke-dasharray="9 16" stroke-linecap="round"/>
+  <g fill="#171411" font-family="Cascadia Mono, monospace" font-size="22">
+    <text x="84" y="806">PERSONAL ATLAS / WORK EVIDENCE / WORLD ROUTES</text>
+    <text x="786" y="754">COORDINATES: UNDEFINED UNTIL OBSERVED</text>
+  </g>
+  <text x="82" y="658" fill="#f4efe6" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="800">UNFAMILIAR</text>
+  <text x="786" y="826" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="800">TERRITORY</text>
+  <circle cx="114" cy="724" r="18" fill="#2656b8"/>
+  <circle cx="931" cy="318" r="17" fill="#171411"/>
+  <circle cx="1227" cy="200" r="18" fill="#d75a2a"/>
+</svg>

@@ -1,2 +1,2 @@
-:HL["/hao-resume-portfolio-preview/_next/static/chunks/1lo2ggk6q9bxq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"1Vdn40M34lRik-kC7hoIT"}
+:HL["/hao-resume-portfolio-preview/_next/static/chunks/2ob7k5_4n7fae.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"WPB1R1SlUYq5bYDQ7vPmz"}

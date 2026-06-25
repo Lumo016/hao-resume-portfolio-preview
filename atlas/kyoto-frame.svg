@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Kyoto observation frame</title>
+  <desc id="desc">Stylized travel frame for Kyoto with quiet structure and ritual details.</desc>
+  <rect width="900" height="1200" fill="#171411"/>
+  <rect x="46" y="42" width="808" height="1116" fill="#efe4d0"/>
+  <rect x="104" y="120" width="692" height="760" fill="#b8c4a4"/>
+  <rect x="104" y="120" width="692" height="170" fill="#6c7f62"/>
+  <rect x="104" y="720" width="692" height="160" fill="#171411"/>
+  <g fill="#f4efe6">
+    <rect x="212" y="306" width="84" height="414"/>
+    <rect x="604" y="306" width="84" height="414"/>
+    <rect x="180" y="284" width="540" height="46"/>
+    <rect x="220" y="244" width="460" height="48"/>
+  </g>
+  <path d="M178 786c144-76 239-28 330-72 78-38 142-34 212 12" fill="none" stroke="#d75a2a" stroke-width="12" stroke-linecap="round"/>
+  <text x="106" y="992" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="800">KYOTO</text>
+  <text x="110" y="1042" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="22">PRECISION CAN FEEL QUIET</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Istanbul observation frame</title>
+  <desc id="desc">Stylized travel frame for Istanbul with water routes, markets, and networked crossings.</desc>
+  <rect width="900" height="1200" fill="#171411"/>
+  <rect x="46" y="42" width="808" height="1116" fill="#efe4d0"/>
+  <rect x="104" y="126" width="692" height="734" fill="#2656b8"/>
+  <path d="M104 650c116-90 209-74 304-30 110 52 199 24 388-92v332H104z" fill="#101820"/>
+  <path d="M136 452c126-52 240 28 351-20s189-88 276-28" fill="none" stroke="#f4efe6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M174 706c120-74 181 28 282-32s178-76 286-8" fill="none" stroke="#d75a2a" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#f1c65a">
+    <rect x="250" y="392" width="72" height="248"/>
+    <rect x="574" y="364" width="72" height="274"/>
+    <circle cx="286" cy="376" r="58"/>
+    <circle cx="610" cy="348" r="68"/>
+  </g>
+  <g fill="#fff8eb">
+    <rect x="218" y="640" width="458" height="42"/>
+    <rect x="268" y="314" width="34" height="86"/>
+    <rect x="592" y="274" width="34" height="92"/>
+  </g>
+  <text x="106" y="994" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="800">ISTANBUL</text>
+  <text x="110" y="1044" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="22">CROSSROADS ARE SYSTEMS</text>
+</svg>

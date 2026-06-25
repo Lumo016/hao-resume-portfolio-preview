@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">AI SEO GEO knowledge base proof plate</title>
+  <desc id="desc">Evidence plate for knowledge base, prompt system, dashboards, analytics tools, and content loop.</desc>
+  <rect width="1100" height="760" fill="#101820"/>
+  <rect x="48" y="44" width="1004" height="672" fill="#f4efe6"/>
+  <text x="78" y="104" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">AI SEO / GEO KNOWLEDGE BASE</text>
+  <text x="80" y="138" fill="#6f675d" font-family="Cascadia Mono, monospace" font-size="18">PROMPT SYSTEM / SIGNAL LOOP / DASHBOARD IDEA</text>
+  <g transform="translate(80 190)">
+    <rect width="275" height="418" fill="#171411"/>
+    <g fill="#f4efe6" font-family="Cascadia Mono, monospace" font-size="16">
+      <text x="28" y="50">KNOWLEDGE BASE</text>
+      <text x="28" y="104">sources/</text>
+      <text x="52" y="136">gsc</text>
+      <text x="52" y="168">ga4</text>
+      <text x="52" y="200">semrush</text>
+      <text x="28" y="256">prompts/</text>
+      <text x="52" y="288">brief</text>
+      <text x="52" y="320">rewrite</text>
+      <text x="52" y="352">diagnose</text>
+    </g>
+  </g>
+  <g transform="translate(410 190)" font-family="Cascadia Mono, monospace" font-size="16">
+    <rect width="262" height="96" fill="#2656b8"/>
+    <text x="24" y="40" fill="#fff8eb">GSC / GA4 / SEMRUSH</text>
+    <text x="24" y="68" fill="#fff8eb">SIGNAL INTAKE</text>
+    <rect y="136" width="262" height="96" fill="#d75a2a"/>
+    <text x="24" y="176" fill="#fff8eb">PROMPT SYSTEM</text>
+    <text x="24" y="204" fill="#fff8eb">STRUCTURED REVIEW</text>
+    <rect y="272" width="262" height="96" fill="#f1c65a"/>
+    <text x="24" y="312" fill="#171411">CONTENT OPTIMIZATION</text>
+    <text x="24" y="340" fill="#171411">LOOP</text>
+  </g>
+  <g transform="translate(720 182)">
+    <rect width="282" height="436" fill="#fff8eb" stroke="#171411" stroke-opacity=".2"/>
+    <text x="24" y="52" fill="#171411" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">DASHBOARD</text>
+    <rect x="24" y="88" width="105" height="86" fill="#2656b8"/>
+    <rect x="153" y="88" width="105" height="86" fill="#d75a2a"/>
+    <rect x="24" y="204" width="234" height="16" fill="#171411" opacity=".28"/>
+    <rect x="24" y="242" width="170" height="16" fill="#171411" opacity=".28"/>
+    <rect x="24" y="280" width="205" height="16" fill="#171411" opacity=".28"/>
+    <path d="M38 372c38-54 68 23 104-34s80-38 103-20" fill="none" stroke="#d75a2a" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#171411" stroke-width="2" stroke-dasharray="9 13" stroke-opacity=".45">
+    <path d="M355 318h55"/>
+    <path d="M672 318h48"/>
+    <path d="M544 558c-10 58-73 72-160 38"/>
+  </g>
+</svg>
